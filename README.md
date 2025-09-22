@@ -24,7 +24,6 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 - 💡 **Expériences** :  
   
   - **Chargée d’accueil et du suivi statistique à la mairie de Villiers Le BEL :**
-    
      **07/2025 - 08/2025**
   - **Data Analyste à temps partiel** au sein de  **Afriland Frist Bank**
      **09/2023 - 08/2024**
