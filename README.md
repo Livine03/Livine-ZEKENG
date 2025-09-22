@@ -13,7 +13,7 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 - 🎓 **Formation** :  
   - Master en Data Science – ENSPY  
   - Master en Chef de Projet Data & IA – ESIC (Paris)  
-  - Master en Ingénierie Data – IPSSI (Paris)
+  - Master en Ingénierie Data – EPITECH (Paris)
 
     
 - 📊 **Certifications** :
