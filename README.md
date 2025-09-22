@@ -3,7 +3,7 @@
 # 👩‍💻 Mon Portfolio Data & IA  
 
 Bienvenue sur mon portfolio!  
-Je suis passionnée par la **Data Science et l’Intelligence Artificielle **.  
+Je suis passionnée par la **Data Science et l’Intelligence Artificielle**.  
 Certifiée **[Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/fr-fr/users/jullautine04-9124/credentials/certification/data-analyst-associate?tab=credentials-tab)**, j’exploite les données pour en extraire des insights pertinents et développer des solutions innovantes.  
 Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech** , j’ai acquis des expériences variées en **banque, administration publique et projets personnels** qui m’ont permis de renforcer mon expertise technique et mon sens de l’analyse.  
 
@@ -24,9 +24,13 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 - 💡 **Expériences** :  
   
   - **Chargée d’accueil et du suivi statistique à la mairie de Villiers Le BEL :**
-  - **Data Analyste** au sein de  **Afriland Frist Bank**
-  - **Assistante Business Intelligence** au sein de Afriland Frist Bank. 
-  - **Data Analyst** au sein du  **MINFOPRA**   
+      **07/2025 - 08/2025**
+  - **Data Analyste à temps partiel** au sein de  **Afriland Frist Bank**
+     **09/2023 - 08/2024**
+  - **Stagiaire en tant que Assistante Business Intelligence** au sein de **Afriland Frist Bank**.
+     **06/2023 - 08/2023**
+  - **Stagiaire en Data Analyst** au sein du  **MINFOPRA**
+     **12/2021 - 03/2022**  
   
 
 ---
