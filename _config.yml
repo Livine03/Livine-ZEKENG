@@ -1,6 +1,6 @@
-Litle: "LIVINE ZEKENG"
-Logo: img/Photo_livine.jpg
-Description: "Portfolio data sciemtist - IA"
-Show_downloads: true 
-Theme: jekyll-theme-minimal
+title: "LIVINE ZEKENG"
+logo: img/Photo_livine.jpg
+description: "Portfolio Data Scientist - IA"
+show_downloads: true
+theme: jekyll-theme-minimal
 lang: fr
