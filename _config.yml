@@ -1,6 +1,6 @@
 Litle: "LIVINE ZEKENG"
-Logo: https://github.com/Livine03/Livine-ZEKENG/blob/main/img/Photo_livine.jpg
-Description: "Portfolio data sciemtist - IA "
+Logo: img/Photo_livine.jpg
+Description: "Portfolio data sciemtist - IA"
 Show_downloads: true 
 Theme: jekyll-theme-minimal
 lang: fr
