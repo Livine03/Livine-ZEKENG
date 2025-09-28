@@ -1,6 +1,6 @@
 # Livine-ZEKENG
 
-# 👩‍💻 Mon Portfolio Data & IA  
+# Mon Portfolio Data & IA  
 
 Bienvenue sur mon portfolio!  
 Je suis passionnée par la **Data Science et l’Intelligence Artificielle**.  
@@ -9,7 +9,7 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 
 ---
 
-## 🚀 À propos de moi  
+## À propos de moi  
 - 🎓 **Formation** :  
   - Master en Data Science – ENSPY  
   - Master en Chef de Projet Data & IA – ESIC (Paris)  
@@ -48,7 +48,7 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 
 ## 📂 Projets phares  
 
-### 🔹 [Collecte,Analyse et suivi d'un portefeuille d'assurance](# https://github.com/Livine03/Collecte-Analyse-et-suivi-d-un-portefeuille-d-assurance)  
+### 🔹 [Collecte,Analyse et suivi d'un portefeuille d'assurance]( https://github.com/Livine03/Collecte-Analyse-et-suivi-d-un-portefeuille-d-assurance)  
 Pour ce projet, nous avons utilisé le logiciel **Postgres**  pour l’extraction des données contenues dans **les fichiers CSV** ; par la suite nous avons transféré les données recueillies dans **R Studio** ou nous avons mené des analyses . Après analyse,nous les avons transférées dans  **power BI** afin de réaliser un tableau de bord qui met en avant  le suivit dans sa globalité.
 
 ### 🔹 [Conception et implémentation d’un Data warehouse muni d’un modèle de visualisation pour le suivi des transactions d’un hôpital](#)  
