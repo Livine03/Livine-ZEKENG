@@ -49,10 +49,10 @@ Actuellement en **Master 2** Option **Intelligence Artificielle** à **Epitech**
 ## 📂 Projets phares  
 
 ### 🔹 [Collecte,Analyse et suivi d'un portefeuille d'assurance]( https://github.com/Livine03/Collecte-Analyse-et-suivi-d-un-portefeuille-d-assurance)  
-Pour ce projet, nous avons utilisé le logiciel **Postgres**  pour l’extraction des données contenues dans **les fichiers CSV** ; par la suite nous avons transféré les données recueillies dans **R Studio** ou nous avons mené des analyses . Après analyse,nous les avons transférées dans  **power BI** afin de réaliser un tableau de bord qui met en avant  le suivit dans sa globalité.
+Pour ce projet, nous avons utilisé le logiciel **Postgres**  pour l’extraction des données contenues dans **les fichiers CSV** ; par la suite nous avons transféré les données recueillies dans **R Studio** où nous avons mené des analyses . Après analyse,nous les avons transférées dans  **power BI** afin de réaliser un tableau de bord qui met en avant  le suivit dans sa globalité.
 
-### 🔹 [Conception et implémentation d’un Data warehouse muni d’un modèle de visualisation pour le suivi des transactions d’un hôpital](#)  
-Pour ce projet, nous avons utilisé le logiciel **Talend** afin de traiter des données dans tout type de format et aussi afin de pouvoir maîtriser les données, peu importe leur quantité ; par la suite nous avons transféré les données recueillies sur **power BI** afin de réaliser un rapport qui met en avant les transactions des différents départements de cet Hôpital. 
+### 🔹 [•	Conception d’un système de recommandation pour téléphones avec interface graphique ](https://github.com/Livine03/Syst-me-de-recommandation-)  
+Collecte et préparation des données, Conception du moteur de recommandation ; Développement de l’interface graphique et Évaluation du système.. 
   
 
 ### 🔹 [COLLECTE DES DONNÉES SUR LE WEB](#)  
